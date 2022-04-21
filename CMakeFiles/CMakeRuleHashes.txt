@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+5f2b28b8d89c293eed42ecb266ce8117 include/gen/GlobalConstants.hpp

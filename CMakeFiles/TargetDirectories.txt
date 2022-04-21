@@ -1,0 +1,3 @@
+/home/lionel/Documents/Godot-Projects/Project Tennisball 2.5D/Scripts/C++/godot-cpp/CMakeFiles/godot-cpp.dir
+/home/lionel/Documents/Godot-Projects/Project Tennisball 2.5D/Scripts/C++/godot-cpp/CMakeFiles/edit_cache.dir
+/home/lionel/Documents/Godot-Projects/Project Tennisball 2.5D/Scripts/C++/godot-cpp/CMakeFiles/rebuild_cache.dir
